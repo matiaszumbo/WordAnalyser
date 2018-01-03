@@ -1,0 +1,9 @@
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\bin\Debug\WordAnalyzer.exe.config
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\bin\Debug\WordAnalyzer.exe
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\bin\Debug\WordAnalyzer.pdb
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\obj\Debug\WordAnalyzer.Form1.resources
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\obj\Debug\WordAnalyzer.Properties.Resources.resources
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\obj\Debug\WordAnalyzer.csproj.GenerateResource.Cache
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\obj\Debug\WordAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\obj\Debug\WordAnalyzer.exe
+C:\Users\mzumbo\VisualStudio\WordAnalyzer\WordAnalyzer\obj\Debug\WordAnalyzer.pdb
